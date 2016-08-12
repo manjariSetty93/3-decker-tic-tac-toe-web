@@ -46,7 +46,6 @@
     font-size: 40px;
     font-weight: bold;
     text-align: center;
-    margin-top: 35%;
 }
 
 .level {
@@ -64,7 +63,6 @@
 }
 
 .start {
-    margin-top: 30%;
     width: 100px;
     height: 100px;
     background-color: #87CEFA;
